@@ -15,3 +15,6 @@ dist/
 docs/_build
 docs/html
 env/
+
+.idea/
+venv/cd
